@@ -21,5 +21,6 @@ function LanguageConfig() {
     </div>
   );
 }
+// This component is used to render the language configuration editor
 
 export default LanguageConfig;
